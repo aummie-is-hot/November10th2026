@@ -1,7 +1,8 @@
 /*
 By: Aum markandey
 Date: 2026-11-10
-Program Details: <Program Description Here>
+Program Details: <Its going to calculate the total of star players in a team and if the team is considered gold. They input first the number of players in the team then each ones points scored and fouls commited. 
+it then tells them how many start players they have then if the team is considered gold team.
 */
 use std::io;
 
